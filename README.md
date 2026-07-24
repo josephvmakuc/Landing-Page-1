@@ -40,20 +40,20 @@ I specialize in structuring complex data pipelines, streamlining administrative 
 ### 1. Pennsylvania Horticultural Society
 * **Role:** Data Architect & Migration Specialist
 * **Key Contributions:**
-  * Designed data architecture schemas to support legacy data consolidation.
+  * Designed data architecture schemas to support legacy data consolidation for 20+ organizations.
   * Executed end-to-end data migration processes ensuring data integrity, minimal downtime, and clean categorization.
 
 ### 2. American Philosophical Society
 * **Role:** Data Cleaning & Migration Specialist
 * **Key Contributions:**
-  * Audited, cleaned, and normalized extensive archival records for migration into updated collection management systems.
+  * Audited, cleaned, and normalized 500+ archival records for migration into updated collection management systems.
   * Applied systematic data verification routines to maintain accurate historical records.
 
 ### 3. Berkshire Oral History Center
 * **Role:** System Administrator & Bookkeeper
 * **Key Contributions:**
-  * Managed core administrative software, system backups, hardware maintenance, and security protocols.
-  * Oversee financial record-keeping, ledger management, and software integrations for organizational bookkeeping.
+  * Managed core administrative software, system backups, hardware maintenance, and security protocols, managing data migration with Synology.
+  * Oversee project record-keeping, risk management, and software integrations for organizational bookkeeping.
 
 ---
 
