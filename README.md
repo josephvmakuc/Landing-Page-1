@@ -70,6 +70,6 @@ I specialize in structuring complex data pipelines, streamlining administrative 
 
 ## 📫 Connect with Me
 
-* **Email:** [Contact Joseph Makuc via Email](mailto:your-email@example.com)
-* **LinkedIn:** [Visit Joseph Makuc's LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-* **GitHub Repository Portfolio:** [Browse Joseph's Repositories](https://github.com/your-username?tab=repositories)
+* **Email:** [Contact Joseph Makuc via Email](mailto:josephvmakuc@gmail.com)
+* **LinkedIn:** [Visit Joseph Makuc's LinkedIn Profile](https://www.linkedin.com/in/joe-makuc)
+* **GitHub Repository Portfolio:** [Browse Joseph's Repositories](https://github.com/josephvmakuc?tab=repositories)
