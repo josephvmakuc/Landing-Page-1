@@ -52,7 +52,7 @@ I specialize in structuring complex data pipelines, streamlining administrative 
 ### 3. Berkshire Oral History Center
 * **Role:** System Administrator & Bookkeeper
 * **Key Contributions:**
-  * Managed core administrative software, system backups, hardware maintenance, and security protocols, managing data migration with Synology.
+  * Managed core administrative software, system backups, hardware maintenance, and security protocols with Synology.
   * Oversee project record-keeping, risk management, and software integrations for organizational bookkeeping.
 
 ---
