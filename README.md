@@ -1,6 +1,6 @@
 # Joseph Makuc
 
-<img width="2100" height="2800" alt="PXL_20211117_190931165" src="https://github.com/user-attachments/assets/c37c7633-14d5-48d4-aed8-956e0baf6548" />
+<img width="525" height="700" alt="PXL_20211117_190931165" src="https://github.com/user-attachments/assets/c37c7633-14d5-48d4-aed8-956e0baf6548" />
 
 
 **IT Professional** | Digital Access & Accessibility Specialist | System Administrator | Helpdesk Support
