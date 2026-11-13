@@ -490,8 +490,8 @@
         <h3>Per Scholas Philadelphia | AI-Powered IT Support Trainee &amp; Cohort Vice President</h3>
         <p class="timeline-meta">Philadelphia, PA | October 2026</p>
         <ul>
-          <li>Completing 600+ hours of intensive hands-on technical training covering hardware disassembly, networking configuration, OS administration, and cybersecurity fundamentals.</li>
-          <li>Earned <strong>CompTIA A+</strong> certification; performed physical break/fix support on personal and desktop hardware, establishing hardware asset tracking protocols.</li>
+          <li>Completed 600+ hours of intensive hands-on technical training covering hardware disassembly, networking configuration, OS administration, and cybersecurity fundamentals.</li>
+          <li>Earned <strong>CompTIA A+</strong> certification; performed physical break/fix support on personal and desktop hardware, establishing hardware asset tracking protocols for 44 systems.</li>
           <li>Elected Cohort Vice President, facilitating peer technical learning and practicing ITIL-based incident triage and customer communication.</li>
           <li>Reference: <a href="https://perscholas.org/" target="_blank" rel="noopener noreferrer">Per Scholas Official Site</a></li>
         </ul>
