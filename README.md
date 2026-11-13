@@ -73,13 +73,13 @@
     :root {
       --bg-color: #0a0d12;
       --card-bg: #121721;
-      --border-color: #6f7772;
-      --text-main: #ffffff;
+      --border-color: #444c56;
+      --text-main: #6e776f;
       --text-muted: #adbac7;
       --accent-color: #71b7ff;
       --accent-hover: #96cbff;
       --tag-bg: #1c212b;
-      --focus-ring: #ffffff;
+      --focus-ring: #6e776f;
       --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     }
 
