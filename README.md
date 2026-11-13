@@ -73,7 +73,7 @@
     :root {
       --bg-color: #0a0d12;
       --card-bg: #121721;
-      --border-color: #444c56;
+      --border-color: #6f7772;
       --text-main: #ffffff;
       --text-muted: #adbac7;
       --accent-color: #71b7ff;
